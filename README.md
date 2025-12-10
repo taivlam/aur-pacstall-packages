@@ -1,7 +1,7 @@
-# My AUR and MPR packages
+# My AUR and Pacstall packages
 My [`PKGBUILD`](https://wiki.archlinux.org/title/PKGBUILD) shell scripts for
 the [AUR](https://en.wikipedia.org/wiki/Arch_Linux#Arch_User_Repository_(AUR))
-and [MPR](https://mpr.makedeb.org/) packages that I maintain
+and [Pacstall](https://pacstall.dev/) packages that I maintain.
 
 ### AUR
 My Repology AUR maintainer [page](https://repology.org/maintainer/taivlam@aur)
@@ -10,12 +10,11 @@ My Repology AUR maintainer [page](https://repology.org/maintainer/taivlam@aur)
 * [![AUR package](https://repology.org/badge/version-for-repo/aur/mouse-configurator.svg)](https://repology.org/project/mouse-configurator/versions) / [`mouse-configurator`](https://aur.archlinux.org/packages/mouse-configurator)
 * [![AUR package](https://repology.org/badge/version-for-repo/aur/mudita-center.svg)](https://repology.org/project/mudita-center/versions) / [`mudita-center-appimage`](https://aur.archlinux.org/packages/mudita-center-appimage)
 
-### MPR (discontinued)
+### Pacstall (WIP)
 The MPR was [discontinued](https://hunterwittenborn.com/blog/stepping-back-from-open-source/)
 on November 21, 2025.
 
-I will have to import these to [Pacstall](https://pacstall.dev/) in the near
-future.
+I will have to import these to Pacstall in the near future.
 
 * [![MPR package](https://repology.org/badge/version-for-repo/mpr/bitwarden.svg)](https://repology.org/project/bitwarden/versions) / [`bitwarden-bin`](https://mpr.makedeb.org/packages/bitwarden-bin)
 * [![MPR package](https://repology.org/badge/version-for-repo/mpr/cwtch-ui.svg)](https://repology.org/project/cwtch-ui/versions) / [`cwtch-ui-bin`](https://mpr.makedeb.org/packages/cwtch-ui-bin)
